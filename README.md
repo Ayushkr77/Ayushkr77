@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ayushkr77&icon=0&color=0)](https://visitcount.itsvg.in)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushkr77)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
